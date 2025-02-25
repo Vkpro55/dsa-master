@@ -1,0 +1,31 @@
+{
+  "name": "dsa-master",
+  "version": "1.0.0",
+  "description": "A comprehensive data structures and algorithms library for JavaScript, featuring optimized implementations of common DS and algorithms.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "data-structures",
+    "algorithms",
+    "dsa",
+    "javascript",
+    "coding",
+    "competitive-programming",
+    "leetcode",
+    "interview-prep",
+    "sorting",
+    "graphs",
+    "trees",
+    "linked-lists"
+  ],
+  "author": "Vinod Kumar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vkpro55/dsa-master"
+  },
+  "homepage": "https://github.com/Vkpro55/dsa-master#readme",
+  "bugs": {
+    "url": "https://github.com/Vkpro55/dsa-master/issues"
+  }
+}
