@@ -1,6 +1,6 @@
 {
   "name": "dsa-master",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A comprehensive data structures and algorithms library for JavaScript, featuring optimized implementations of common DS and algorithms.",
   "main": "index.js",
   "scripts": {},

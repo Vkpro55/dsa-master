@@ -32,12 +32,6 @@ DSA-Algorithms-JS is a JavaScript library that provides efficient implementation
 
 **Sorting Algorithms**
 
-```
-const arr1 = [6, 7, -1, 0, 100, 7];
-SortingAlgorithm.BubbleSort(arr1);
-console.log(arr1); // Output: [-1, 0, 6, 7, 7, 100]
-```
-
 This table provides the time and space complexities of common sorting algorithms.
 
 | Algorithm          | Best Case  | Worst Case | Average Case | Space Complexity |
@@ -48,18 +42,24 @@ This table provides the time and space complexities of common sorting algorithms
 | **Merge Sort**     | O(n log n) | O(n log n) | O(n log n)   | O(n)             |
 | **Quick Sort**     | O(n log n) | O(n²)      | O(n log n)   | O(log n)         |
 
+```
+const arr1 = [6, 7, -1, 0, 100, 7];
+SortingAlgorithm.BubbleSort(arr1);
+console.log(arr1); // Output: [-1, 0, 6, 7, 7, 100]
+```
+
 **Searching Algorithms**
+
+| Algorithm         | Best Case | Worst Case | Average Case |
+| ----------------- | --------- | ---------- | ------------ |
+| **Linear Search** | O(1)      | O(n)       | O(n)         |
+| **Binary Search** | O(1)      | O(log n)   | O(log n)     |
 
 ```
 const arr2 = [-1, 0, 6, 7, 9, 100];
 const index = SearchingAlgorithm.BinarySearch(arr2, 7);
 console.log(index); // Output: 3
 ```
-
-| Algorithm         | Best Case | Worst Case | Average Case |
-| ----------------- | --------- | ---------- | ------------ |
-| **Linear Search** | O(1)      | O(n)       | O(n)         |
-| **Binary Search** | O(1)      | O(log n)   | O(log n)     |
 
 **Dynamic Array**
 
@@ -133,3 +133,12 @@ graph.display();
 // A : [ 'B' ]
 // B : [ 'A' ]
 ```
+
+## 📞 Contact
+
+Feel free to reach out:
+
+- **Name:** Vinod Kumar
+- **Email:** [vinodrao835@gmail.com](mailto:vinodrao835@gmail.com)
+- **GitHub:** [Vkpro55](https://github.com/Vkpro55)
+- **LinkedIn:** [Vinod Kumar](https://www.linkedin.com/in/vinod-kumar057/)
